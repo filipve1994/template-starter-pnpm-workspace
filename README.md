@@ -1,0 +1,1 @@
+# template-starter-pnpm-workspace
